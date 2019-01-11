@@ -1,12 +1,12 @@
-function M = CS6640_Motion_Tracker(vidObj)
-% CS6640_Motion_Tracker - segments moving objects in video
+function M = Motion_Tracker(vidObj)
+% Motion_Tracker - segments moving objects in video
 % On input:
 %        vidObj (video object obtained by VideoReader): input video
 % On output:
 %       M (Matlab movie): movie of segmented moving objects
 % Call:
-%       vidObj = VideoReader(’../../../video.avi’);
-%       M = CS6640_Motion_Tracker(vidObj);
+%       vidObj = VideoReader(â€™../../../video.aviâ€™);
+%       M = Motion_Tracker(vidObj);
 % Author:
 %       Rohit Singh
 %       Fall 2018
