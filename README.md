@@ -19,3 +19,4 @@ A matlab based motion tracker that identifies the moving objects in a video and 
 
 %vidObj=VideoReader('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image
 %Processing\Assignments\A4\Videos\video1.avi');
+%
