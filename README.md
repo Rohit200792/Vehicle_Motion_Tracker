@@ -9,10 +9,13 @@ A matlab based motion tracker that identifies the moving objects in a video and 
 % Call:
 %       vidObj = VideoReader(’../../../video.avi’);
 %       M = Motion_Tracker(vidObj);
-% Author:
-%       Rohit Singh
-%       Fall 2018
-%       UU
-%
 
-%Example test cases:
+%Here are some example test cases:
+%vidObj=VideoReader('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image
+%Processing\Assignments\A4\Videos\video1.avi');
+
+%vidObj=VideoReader('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image
+%Processing\Assignments\A4\Videos\video2.avi');
+
+%vidObj=VideoReader('C:\Users\Rohit Singh\OneDrive\MSCS\CS6640 Image
+%Processing\Assignments\A4\Videos\video1.avi');
